@@ -2,6 +2,8 @@
 
 This repository contains a collection of source files for building Docker images for Perforce Helix. It exists purely because there is no working Docker solution in existence for Perforce Helix.
 
+It has been edited according to https://www.froyok.fr/blog/2018-09-setting-up-perforce-with-docker-for-unreal-engine-4.
+
 ## helix-p4d
 
 This directory contains the source files for building a Perforce Helix core server Docker image. The published Docker images are available as [`sourcegraph/helix-p4d` on Docker Hub](https://hub.docker.com/r/sourcegraph/helix-p4d).
